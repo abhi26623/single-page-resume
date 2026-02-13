@@ -20,7 +20,8 @@ Feel free to customize this resume with your own details:
 
 ## Screenshot
 
-![Resume Reference](Image\refrerence1.png)(Image\refrerence2.png)
+![Resume Reference 1](Image/refrerence1.png)
+![Resume Reference 2](Image/refrerence2.png)
 
 
 *The above screenshot serves as a design reference for this resume.*
